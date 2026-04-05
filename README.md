@@ -11,6 +11,15 @@ Optimized for **Nim v2.2.8+**, supporting cross-platform compilation on **Linux 
 - 🛡 **Type-Safe Casting**: Explicit `asWidget()` helpers safely upcast derived pointers (`ptr FlButton`, etc.) to the base `ptr FlWidget`.
 - 📝 **Convenience Templates**: `withWindow`, `withGroup`, `withTabs`, `withScroll`, `withPack`, and `withTile` automatically wrap code in `beginGroup()` / `endGroup()`.
 
+
+## How it looks on Fedora Linux
+![How it looks on Fedora Linux](./screenshots/Screen1.png)
+
+![How it looks on Fedora Linux](./screenshots/Screen2.png)
+
+
+
+
 ## 📦 Installation
 Ensure FLTK development libraries are installed and `fltk-config` is in your `PATH`.
 
