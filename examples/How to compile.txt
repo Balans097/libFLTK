@@ -1,0 +1,9 @@
+
+1. Add directory with nimFLTK.nim to nim config file.
+
+2. nim cpp -d:release FLTK_program.nim
+
+
+
+
+
